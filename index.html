@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<title>teddysounds</title>
+  <script src="script.js"></script>
+
+  <head>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+
+<body id="homebody">
+  <h2 id="title">teddysounds</h2>
+
+  <nav id="navigator">
+    <ul id="unorderedlist">
+      <li id="liststyle">
+          <a href="songs.html" id="linkstyle">songs</a>
+          <a href="scores.html" id="linkstyle"><br>scores</a>
+          <a href="game.html" id="linkstyle"><br>game</a>
+          <a href="jazz.html" id="linkstyle"><br>jazz</a>
+          <a href="otherlinks.html" id="linkstyle"><br>other links</a>
+          <a href="more.html" id="linkstyle"><br>more</a>
+      </li>
+    </ul>
+  </nav>
+
+</body>

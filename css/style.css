@@ -1,0 +1,264 @@
+
+
+
+#homebody{
+  background-image: url(https://i.gifer.com/3M1z.gif);
+  background-position: top;
+  background-size: 23%;
+  background-repeat: repeat-x;
+  background-color: #00000c;
+
+}
+
+#title{
+  padding-top: 35px;
+  padding-bottom: 35px;
+  margin: 0;
+  font-family: didot;
+  font-style: italic;
+  font-weight: bolder;
+  text-align: center;
+  font-size: 100px;
+  color: rgba(219,17,17,.7);
+  letter-spacing: 10px;
+
+}
+
+#intro {
+  font-family: didot;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 600px;
+  color: #A52D2D;
+}
+
+#liststyle {
+  list-style: none;
+}
+
+#linkstyle {
+  text-decoration: none;
+  font-size: 50px;
+  color: #D6D6D6;
+}
+
+#morelinkstyle {
+  font-size: 50px;
+  color: #5C0F6D;
+}
+#morelinkstylered {
+  font-size: 50px;
+  color: red;
+}
+
+
+#pagestyle {
+  background-color: #00000c;
+}
+
+#morepagestyle {
+  background-color: #00000c;
+  color: white;
+  text-indent: 20px;
+  font-family: times;
+  font-size: 50px;
+}
+
+#nomorered {
+  background-color: #00000c;
+  color: red;
+  text-indent: 20px;
+  font-family: times;
+  font-size: 50px;
+}
+
+#songstitle {
+  color: rgba(219,17,17,.8);
+  text-indent: 90px;
+  font-family: times;
+  font-size: 50px;
+}
+
+#scorestitle {
+  color: green;
+  text-indent: 90px;
+  font-family: times;
+  font-size: 50px;
+}
+
+#videogametitle {
+  color: yellow;
+  text-indent: 30px;
+  font-family: times;
+  font-size: 50px;
+}
+
+#jazztitle {
+  color: blue;
+  text-indent: 90px;
+  font-family: times;
+  font-size: 50px;
+}
+
+#otherlinkstitle {
+    color: orange;
+    text-indent: 20px;
+    font-family: times;
+    font-size: 50px;
+}
+
+#moretitle {
+    color: white;
+    text-indent: 20px;
+    font-family: times;
+    font-size: 50px;
+}
+
+#songnames {
+  display: inline;
+  margin: 0;
+  padding-top: 15px;
+  text-indent: 20px;
+  font-family: times;
+  font-size: 20px;
+  font-weight: 100;
+  color: #E1E1E1;
+}
+
+#puzzleletterm {
+  display: inline;
+  margin: 0;
+  padding-top: 15px;
+  text-indent: 20px;
+  font-family: times;
+  font-size: 20px;
+  font-weight: 100;
+  color: #B1B1B1;
+}
+#puzzlelettera {
+  display: inline;
+  margin: 0;
+  padding-top: 15px;
+  text-indent: 20px;
+  font-family: times;
+  font-size: 20px;
+  font-weight: 100;
+  color: #B1B1B1;
+}
+#puzzleletteri {
+  display: inline;
+  margin: 0;
+  padding-top: 15px;
+  text-indent: 20px;
+  font-family: times;
+  font-size: 20px;
+  font-weight: 100;
+  color: #A2A2A2;
+}
+#puzzlelettero {
+  display: inline;
+  margin: 0;
+  padding-top: 15px;
+  text-indent: 20px;
+  font-family: times;
+  font-size: 20px;
+  font-weight: 100;
+  color: #909090;
+}
+#puzzlelettert {
+  display: inline;
+  margin: 0;
+  padding-top: 15px;
+  text-indent: 20px;
+  font-family: times;
+  font-size: 20px;
+  font-weight: 100;
+  color: #838383;
+}
+#puzzleletters {
+  display: inline;
+  margin: 0;
+  padding-top: 15px;
+  text-indent: 20px;
+  font-family: times;
+  font-size: 20px;
+  font-weight: 100;
+  color: #6D6D6D;
+}
+
+#puzzleunderscorem {
+  text-align: center;
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+  color: #BEBEBE;
+  font-family: times;
+  font-size: 144px;
+}
+
+#puzzleunderscorea {
+  text-align: center;
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+  color: #B1B1B1;
+  font-family: times;
+  font-size: 144px;
+}
+
+#puzzleunderscorei {
+  text-align: center;
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+  color: #A2A2A2;
+  font-family: times;
+  font-size: 144px;
+}
+
+#puzzleunderscoreo {
+  text-align: center;
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+  color: #909090;
+  font-family: times;
+  font-size: 144px;
+}
+
+#puzzleunderscoret {
+  text-align: center;
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+  color: #838383;
+  font-family: times;
+  font-size: 144px;
+}
+
+#puzzleunderscores {
+  text-align: center;
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+  color: #6D6D6D;
+  font-family: times;
+  font-size: 144px;
+}
+
+#puzzletitle {
+  text-align: center;
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+  color: white;
+  font-family: times;
+  font-size: 140px;
+}
+
+#puzzlecaption {
+  color: white;
+  text-align: center;
+  font-family: times;
+  font-size: 30px;
+}
