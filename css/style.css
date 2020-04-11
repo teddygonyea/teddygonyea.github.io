@@ -56,6 +56,18 @@
   background-color: #00000c;
 }
 
+#mobilepagestyle {
+ background-color: red;
+}
+
+#mobiletextstyle {
+  color: darkblue;
+  font-family: times;
+  font-size: 70px;
+  text-align: center;
+}
+
+
 #morepagestyle {
   background-color: #00000c;
   color: white;
