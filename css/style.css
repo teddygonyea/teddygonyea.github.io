@@ -7,7 +7,6 @@
   background-size: 23%;
   background-repeat: repeat-x;
   background-color: #00000c;
-
 }
 
 #title{
@@ -21,7 +20,6 @@
   font-size: 100px;
   color: rgba(219,17,17,.7);
   letter-spacing: 10px;
-
 }
 
 #intro {
@@ -32,9 +30,15 @@
   color: #A52D2D;
 }
 
-#liststyle {
+#homeliststyle {
   list-style: none;
 }
+
+#linkliststyle {
+  list-style: none;
+  margin-left: 50px;
+}
+
 
 #linkstyle {
   text-decoration: none;
@@ -50,7 +54,6 @@
   font-size: 50px;
   color: red;
 }
-
 
 #pagestyle {
   background-color: #00000c;
@@ -84,7 +87,7 @@
   font-size: 50px;
 }
 
-#songstitle {
+#musictitle {
   color: rgba(219,17,17,.8);
   text-indent: 90px;
   font-family: times;
